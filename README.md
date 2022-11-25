@@ -10,9 +10,7 @@
 6. Directions Service
 7. Directions Renderer on map
 
-## Youtube tutorial
 
-[https://youtu.be/iP3DnhCUIsE](https://youtu.be/iP3DnhCUIsE)
 
 ## Starting the app
 
@@ -34,12 +32,3 @@ npm install
 npm start
 ```
 
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
-# Google-map-api
-# hey
